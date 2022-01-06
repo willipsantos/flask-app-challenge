@@ -22,6 +22,11 @@ gunicorn "app:create_app()"
 
 4. Endpoints
 ```
+flask run
+service endpoint = http://localhost:5000/oauth/v1
+health endpoint = http://localhost:5000/oauth/v1/health
+
+gunicorn
 service endpoint = http://localhost:8000/oauth/v1
 health endpoint = http://localhost:8000/oauth/v1/health
 ```
