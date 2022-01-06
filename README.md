@@ -37,5 +37,5 @@ Instalar Docker e Docker Compose
 - Docker (https://docs.docker.com/engine/install/)
 - Docker Compose (https://docs.docker.com/compose/install/)
 
-Criar Dockerfile para aplicação
-Criar Docker Compose para aplicação e banco de dados
+- Criar Dockerfile para aplicação
+- Criar Docker Compose para aplicação e banco de dados
